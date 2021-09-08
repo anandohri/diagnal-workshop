@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Titillium Web';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Home{
+  background-color: #000000;
+}
+
+.NavBar{
+  background: url('./inputs/Slices/nav_bar.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 72px 30px 36px;
+  min-height: 192px;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.Back{
+  height: 50px;
+  width: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Filter{
+  font-size: 36pt;
+  padding-left: 30px;
+}
+
+.Search{
+  height: 50px;
+  width: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: auto;
+}
+
+.allMovies{
+  padding-left: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 228px;
+}
+
+.Movie{
+  padding-right: 30px;
+  flex: 30%;
+  margin-bottom: 90px;
+}
+
+.Caption{
+  margin-top: 24px;
+  font-size: 36pt;
+  font-weight: lighter;
+  color: #FFFFFF;
+  text-align: left;
+}
