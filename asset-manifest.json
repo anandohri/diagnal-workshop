@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/diagnal-workshop/static/css/main.dee1d249.chunk.css",
+    "main.js": "/diagnal-workshop/static/js/main.ffdf433c.chunk.js",
+    "main.js.map": "/diagnal-workshop/static/js/main.ffdf433c.chunk.js.map",
+    "runtime-main.js": "/diagnal-workshop/static/js/runtime-main.af2ae545.js",
+    "runtime-main.js.map": "/diagnal-workshop/static/js/runtime-main.af2ae545.js.map",
+    "static/js/2.0e9c363d.chunk.js": "/diagnal-workshop/static/js/2.0e9c363d.chunk.js",
+    "static/js/2.0e9c363d.chunk.js.map": "/diagnal-workshop/static/js/2.0e9c363d.chunk.js.map",
+    "index.html": "/diagnal-workshop/index.html",
+    "static/css/main.dee1d249.chunk.css.map": "/diagnal-workshop/static/css/main.dee1d249.chunk.css.map",
+    "static/js/2.0e9c363d.chunk.js.LICENSE.txt": "/diagnal-workshop/static/js/2.0e9c363d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af2ae545.js",
+    "static/js/2.0e9c363d.chunk.js",
+    "static/css/main.dee1d249.chunk.css",
+    "static/js/main.ffdf433c.chunk.js"
+  ]
+}
